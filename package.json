@@ -37,7 +37,7 @@
     "jest": "^27.5.1",
     "node-fetch": "^2.6.7",
     "prettier": "^2.7.1",
-    "react-test-renderer": "17.0.2",
+    "react-test-renderer": "18.2.0",
     "typescript": "^4.8.4"
   },
   "engines": {
@@ -140,7 +140,7 @@
     "payjoin-client": "1.0.1",
     "process": "0.11.10",
     "prop-types": "15.8.1",
-    "react": "17.0.2",
+    "react": "18.2.0",
     "react-localization": "github:BlueWallet/react-localization#ae7969a",
     "react-native": "0.68.0",
     "react-native-blue-crypto": "https://github.com/BlueWallet/react-native-blue-crypto#e9b60605dbdb24de720e923f740912a4930383ff",
