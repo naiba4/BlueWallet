@@ -96,7 +96,7 @@
     ]
   },
   "dependencies": {
-    "@babel/preset-env": "7.19.4",
+    "@babel/preset-env": "7.22.0",
     "@bugsnag/react-native": "7.18.2",
     "@bugsnag/source-maps": "2.3.1",
     "@keystonehq/bc-ur-registry": "0.5.4",
@@ -142,7 +142,7 @@
     "prop-types": "15.8.1",
     "react": "17.0.2",
     "react-localization": "github:BlueWallet/react-localization#ae7969a",
-    "react-native": "0.68.0",
+    "react-native": "0.69.12",
     "react-native-blue-crypto": "https://github.com/BlueWallet/react-native-blue-crypto#e9b60605dbdb24de720e923f740912a4930383ff",
     "react-native-camera-kit": "13.0.0",
     "react-native-crypto": "2.2.0",
