@@ -192,7 +192,7 @@
     "scryptsy": "2.1.0",
     "slip39": "https://github.com/BlueWallet/slip39-js",
     "stream-browserify": "3.0.0",
-    "tiny-secp256k1": "1.1.6",
+    "tiny-secp256k1": "2.0.0",
     "url": "0.11.0",
     "wif": "2.0.6"
   },
